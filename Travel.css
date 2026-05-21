@@ -1,0 +1,284 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container {
+    background-image: url("https://i.imgur.com/oLXvfG3.jpeg");
+    height: 100vh;
+    background-size: cover;
+    text-align: center;
+}
+
+.button {
+    margin: 2px;
+    font-weight: bold;
+}
+
+.bg-container-1 {
+    background-image: url("https://i.imgur.com/tIg8DaD.jpeg");
+    height: 100vh;
+    background-size: cover;
+    font-family: Roboto;
+    color: #00FFFF;
+    padding: 20px;
+    padding-top: 60px;
+}
+
+.heading-1 {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.image1 {
+    height: 140px;
+    width: 210px;
+    border-radius: 8px;
+}
+
+.card1 {
+    margin-right: 50px;
+}
+
+.card2 {
+    margin-left: 50px;
+}
+
+.button {
+    margin-top: 50px;
+}
+
+.bg-container-2 {
+    background-image: url("https://i.imgur.com/8KrElMr.jpeg");
+    height: 100vh;
+    background-size: cover;
+    padding: 20px;
+    font-family: Roboto;
+}
+
+.heading-2 {
+    font-size: 30px;
+    font-weight: bold;
+    color: #36454F;
+}
+
+.paragraph-2 {
+    font-size: 15px;
+    color: #787878;
+}
+
+.card3 {
+    background-color: #ffffff;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.unordered-list {
+    list-style-type: none;
+    color: #ffffff;
+}
+
+.heading-2-1 {
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 120px;
+    color: #1B1B1B;
+}
+
+.list-item-2 {
+    color: #333333;
+    font-size: 15px;
+    font-weight: 600;
+}
+
+.bg-container-2-1 {
+    background-color: #00BFFF;
+    height: 100vh;
+    background-size: cover;
+    padding: 20px;
+}
+
+.card3-1 {
+    background-color: #ffffff;
+    margin-left: 380px;
+    margin-right: 380px;
+    border-radius: 10px;
+}
+
+.heading-3-1 {
+    padding-top: 20px;
+    padding-left: 20px;
+    font-size: 25px;
+    font-family: Roboto;
+    font-weight: bold;
+}
+
+.unordered-list1 {
+    margin-left: 15px;
+    padding-bottom: 20px;
+    list-style-type: circle;
+}
+
+.button1 {
+    margin-bottom: 20px;
+}
+
+.button1-1 {
+    margin-bottom: 20px;
+    margin-left: 10px;
+}
+
+.button1-2 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.bg-container-2-2 {
+    background-color: #39FF14;
+    height: 100vh;
+    background-size: cover;
+    padding: 20px;
+}
+
+.bg-container-2-3 {
+    background-color: #48D1CC;
+    height: 100vh;
+    background-size: cover;
+    padding: 20px;
+}
+
+.bg-container-2-4 {
+    background-color: #BD00FF;
+    height: 100vh;
+    background-size: cover;
+    padding: 20px;
+}
+
+.bg-container-2-5 {
+    background-color: #FFFDD0;
+    height: 100vh;
+    background-size: cover;
+    padding: 20px;
+}
+
+.bg-container-3 {
+    background-image: url("https://i.imgur.com/oB2iupp.jpeg");
+    height: 100vh;
+    background-size: cover;
+    padding: 20px;
+    font-family: Roboto;
+}
+
+.bg-container-JapanHike {
+    background-image: url("https://i.imgur.com/gR3EHXz.jpeg");
+    height: 100vh;
+    background-size: cover;
+    padding: 20px;
+}
+
+.heading-hiking {
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 120px;
+    color: #ffffff;
+}
+
+.bg-container-JapanBike {
+    background-image: url("https://i.imgur.com/3uDz1Sz.jpeg");
+    height: 100vh;
+    background-size: cover;
+    padding: 20px;
+}
+
+.bg-container-Japan-Kayaking {
+    background-image: url("https://i.imgur.com/yiYvxv9.jpeg");
+    height: 100vh;
+    background-size: cover;
+    padding: 20px;
+}
+
+.bg-container-India-Wildlife {
+    background-image: url("https://i.imgur.com/lXlvN0l.jpeg");
+    height: 100vh;
+    background-size: cover;
+    padding: 20px;
+}
+
+.bg-container-Japan-Diving {
+    background-image: url("https://i.imgur.com/QkMIDd7.jpeg");
+    height: 100vh;
+    background-size: cover;
+    padding: 20px;
+}
+
+.unordered-list-hike {
+    list-style-type: none;
+}
+
+.list-item-hike {
+    color: #39FF14;
+    font-size: 15px;
+    font-weight: 600;
+}
+
+.bg-container-Bike-Riding {
+    background-image: url("https://i.imgur.com/GwJx9hl.jpeg");
+    height: 100vh;
+    background-size: cover;
+    padding: 20px;
+    font-family: Roboto;
+}
+
+.list-item-bike {
+    color: #FAFA33;
+    font-size: 15px;
+    font-weight: 600;
+}
+
+.bg-container-Kayaking {
+    background-image: url("https://i.imgur.com/M21HWI7.jpeg");
+    height: 100vh;
+    background-size: cover;
+    padding: 20px;
+    font-family: Roboto;
+}
+
+.list-item-kayaking {
+    color: #FF0000;
+    font-size: 15px;
+    font-weight: 600;
+}
+
+.bg-container-Wildlife {
+    background-image: url("https://i.imgur.com/B3DCDcL.jpeg");
+    height: 100vh;
+    background-size: cover;
+    padding: 20px;
+    font-family: Roboto;
+}
+
+.heading-wildlife {
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 140px;
+    color: #1B1B1B;
+}
+
+.list-item-wildlife {
+    padding-left: 20px;
+    color: #AAFF00;
+    font-size: 15px;
+    font-weight: 600;
+}
+
+.bg-container-Diving {
+    background-image: url("https://i.imgur.com/NIHR7q7.jpeg");
+    height: 100vh;
+    background-size: cover;
+    padding: 20px;
+    font-family: Roboto;
+}
+
+.list-item-diving {
+    padding-right: 60px;
+    color: #00FFFF;
+    font-size: 15px;
+    font-weight: 600;
+}
